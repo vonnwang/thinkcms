@@ -1,0 +1,7 @@
+{
+    "require": {
+        "topthink/think-helper": "^3.0",
+        "google/protobuf": "^3.7",
+        "overtrue/pinyin": "~3.0"
+    }
+}

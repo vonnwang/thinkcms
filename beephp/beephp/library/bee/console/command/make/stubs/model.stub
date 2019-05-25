@@ -1,0 +1,10 @@
+<?php
+
+namespace {%namespace%};
+
+use bee\Model;
+
+class {%className%} extends Model
+{
+    //
+}

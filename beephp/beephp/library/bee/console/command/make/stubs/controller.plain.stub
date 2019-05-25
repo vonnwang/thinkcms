@@ -1,0 +1,10 @@
+<?php
+
+namespace {%namespace%};
+
+use bee\Controller;
+
+class {%className%} extends Controller
+{
+    //
+}
